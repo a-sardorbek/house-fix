@@ -1,0 +1,5 @@
+export * from './create.work.dto'
+export * from './update.work.dto'
+export * from './delete.work.dto'
+export * from './retrieve.work.dto'
+export * from './retrieve-by-id.work.dto'
